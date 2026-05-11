@@ -1,0 +1,13 @@
+*.class
+*.log
+*.ctxt
+
+.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
+
+bin/
+out/
+build/
